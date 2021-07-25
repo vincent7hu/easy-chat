@@ -2,7 +2,7 @@
 
 A chat app built on React with backend is hosted by https://chatengine.io
 
-![image info](./Login-page.png)
+![Login Page](https://raw.githubusercontent.com/vincent7hu/easy-chat/main/Login_page.png)
 
 ## Available Scripts
 
