@@ -6,7 +6,7 @@ Login Page:
 
 ![Login Page](https://raw.githubusercontent.com/vincent7hu/easy-chat/main/Login_page.png)
 
-App Chat Feed
+App Chat Feed:
 
 ![Chat Feed and UI](https://raw.githubusercontent.com/vincent7hu/easy-chat/main/Chat_feed.png)
 
