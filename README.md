@@ -10,6 +10,8 @@ App Chat Feed:
 
 ![Chat Feed and UI](https://raw.githubusercontent.com/vincent7hu/easy-chat/main/Chat_feed.png)
 
+User can either send texts or images to the chat. The message receipt status will be displayed in the form of users' avatar under the message block.
+
 ## Available Scripts
 
 In the project directory, you can run:
